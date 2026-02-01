@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 A passionate Full-stack web developer from Ahmedabad, India. I'm working on React, ASP .NET Core API, and MVC with SQL Server.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant71001&label=Profile%20views&color=0e75b6&style=flat" alt="Vedant Chavda" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vedant-chavda-a6b1a11b6/) 
